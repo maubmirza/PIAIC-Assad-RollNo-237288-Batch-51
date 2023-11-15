@@ -18,3 +18,4 @@ console.log("\nUpdated Dinner Invitations:");
 for (var i = 0; i < guestList.length; i++) {
     console.log("Dear ".concat(guestList[i], ", you are invited to dinner. Please join us for a wonderful evening!"));
 }
+
